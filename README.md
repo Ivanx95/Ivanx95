@@ -1,7 +1,12 @@
-### Hi there 👋
+
 
 ![](https://komarev.com/ghpvc/?username=Ivanx95)
 
+
+<h1 align='center'> Hello there Obi-wan kenoby :wave:</h1>
+
+
+![](https://komarev.com/ghpvc/?username=Ivanx95)
 <!--
 **Ivanx95/Ivanx95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
