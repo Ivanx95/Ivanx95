@@ -1,6 +1,6 @@
 
 
-![](https://komarev.com/ghpvc/?username=Ivanx95)
+
 
 
 <h1 align='center'> Hello there Obi-wan kenoby :wave:</h1>
