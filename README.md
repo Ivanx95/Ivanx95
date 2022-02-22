@@ -6,6 +6,8 @@
 <h1 align='center'> Hello there Obi-wan kenoby :wave:</h1>
 
 
+[![Jaisen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivanx95)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=Ivanx95)
 <!--
 **Ivanx95/Ivanx95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
