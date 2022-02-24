@@ -5,7 +5,7 @@
 
 <h1 align='center'> Hello there Obi-wan kenoby :wave:</h1>
 
-<p> Hi I'm Jaisen, I'm a bid shark backend developer, that also is exploring the new seas of front end, my corrunt focus is client card, a PAS system 
+<p> Hi I'm Jaisen, I'm a bid shark backend developer, that also is exploring the new seas of front end, my corrunt baby is <a href="https://mycard.host">client card</a>, a PAS system 
   for loyalty cards and more <p/>
 
 [![Jaisen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivanx95&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
